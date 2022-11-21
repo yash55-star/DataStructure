@@ -1,5 +1,5 @@
 package com.array.easy;
-
+//
 public class ArrayOfProducts {
 
 	public static int[] arrayOfProducts(int[] array) {
