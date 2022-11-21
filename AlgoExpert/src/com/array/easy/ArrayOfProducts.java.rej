@@ -1,0 +1,8 @@
+diff a/AlgoExpert/src/com/array/easy/ArrayOfProducts.java b/AlgoExpert/src/com/array/easy/ArrayOfProducts.java	(rejected hunks)
+@@ -1,5 +1,5 @@
+ package com.array.easy;
+-
++//
+ public class ArrayOfProducts {
+ 
+ 	public static int[] arrayOfProducts(int[] array) {
